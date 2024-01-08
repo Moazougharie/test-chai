@@ -20,6 +20,9 @@ module.exports = {
     Cube:Cube
 
 }
+
+
+
 // Classe représentant un article
 class Article {
     constructor(name, price, quantity) {
